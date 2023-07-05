@@ -18,16 +18,24 @@
 ## ♠ Technologies I'm learning 🚀
 
 <p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react.native&animation=spin&svgfill=15d8fe">  
+  <a href="https://github.com/harish-sethuraman/readme-components">
+   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react_native&animation=spin&svgfill=15d8fe">  
  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
+  </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nestjs&svgfill=2d79c7">
+  </a>
    <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=cd6799">
-</a>
-</a>
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2d79c7">
+  </a>
+   <a href="https://github.com/harish-sethuraman/readme-components">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=2d79c7">
+  </a>
+   <a href="https://github.com/harish-sethuraman/readme-components">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=2d79c7">
+  </a>
 </p>
 
 ## ♠ Resume 🚀
