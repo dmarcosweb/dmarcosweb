@@ -15,11 +15,11 @@
    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmarcosweb&layout=compact&langs_count=8&card_width=200&theme=dark" />
 </a>
 
-## ♠ Technologies I'm learning 🚀
+## ♠ Technologies I'm learning and improving 🚀
 
 <p align="left">  
   <a href="https://github.com/harish-sethuraman/readme-components">
-   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react_native&animation=spin&svgfill=15d8fe">  
+   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
  </a>
   <a href="https://github.com/harish-sethuraman/readme-components">
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
