@@ -10,10 +10,7 @@
 </a></p>
 </div>
 
-<a href="https://github.com/dmarcosweb">  
-  <img width=470 height=350 align="center" alt="javascript" src="https://github-readme-stats.vercel.app/api?username=dmarcosweb&theme=blue-green"/>
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmarcosweb&layout=compact&langs_count=8&card_width=200&theme=dark" />
-</a>
+
 
 ## ♠ Technologies I'm learning and improving 🚀
 
@@ -47,12 +44,16 @@ const dmarcosweb = {
     backend: ["NodeJs, "Express"],
     database: ["Mongo DB, "PostgreSQL"],
     devops: ["Docker"],
-    frontend: ["HTML", "CSS", "JavaScript", "ReactJS", "Boostrap"],
+    frontend: ["HTML", "CSS", "Javascript", "React JS", "Boostrap"],
     mobile: ["React Native"],
-    tools: ["GIT", "GitHub", "VSCODE"],
+    tools: ["GIT", "GITHUB", "VSCODE"],
   },
 };
 ```
+
+### GitHub Stats ⭐
+[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dmarcosweb&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## ♠ Contact 🏳️
 
