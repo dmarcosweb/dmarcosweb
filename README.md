@@ -41,14 +41,14 @@
 ## ♠ Resume 🚀
 
 ```js
-
 const dmarcosweb = {
   about_me: ["web dev", "app dev student"],
   technologies: {
     backend: ["NodeJs, "Express"],
-    database: ["Mongo DB, MySQL", "PostgreSQL"],
+    database: ["Mongo DB, "PostgreSQL"],
     devops: ["Docker"],
     frontend: ["HTML", "CSS", "JavaScript", "ReactJS", "Boostrap"],
+    mobile: ["React Native"],
     tools: ["GIT", "GitHub", "VSCODE"],
   },
 };
