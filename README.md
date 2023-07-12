@@ -52,7 +52,7 @@ const dmarcosweb = {
 ```
 
 ### GitHub Stats ⭐
-[![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dmarcosweb&show_icons=true)]
+![Dani El-Ayyass' github stats](https://github-readme-stats.vercel.app/api?username=dmarcosweb&show_icons=true)
 
 
 ## ♠ Contact 🏳️
