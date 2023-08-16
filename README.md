@@ -21,17 +21,11 @@
   <a href="https://github.com/harish-sethuraman/readme-components">
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
   </a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
-    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=nestjs&svgfill=2d79c7">
-  </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
-    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=docker&svgfill=2d79c7">
-  </a>
    <a href="https://github.com/harish-sethuraman/readme-components">
     <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=2d79c7">
   </a>
    <a href="https://github.com/harish-sethuraman/readme-components">
-    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=2d79c7">
+    <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=firebase&svgfill=2d79c7">
   </a>
 </p>
 
@@ -42,7 +36,7 @@ const dmarcosweb = {
   about_me: ["web dev", "app dev student"],
   technologies: {
     backend: ["NodeJs, "Express"],
-    database: ["Mongo DB, "PostgreSQL"],
+    database: ["Mongo DB, "Firebase"],
     devops: ["Docker"],
     frontend: ["HTML", "CSS", "Javascript", "React JS", "Boostrap"],
     mobile: ["React Native"],
